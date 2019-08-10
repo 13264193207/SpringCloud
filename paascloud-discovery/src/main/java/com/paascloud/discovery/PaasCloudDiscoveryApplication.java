@@ -26,6 +26,8 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 @EnableDiscoveryClient
 public class PaasCloudDiscoveryApplication {
 
+
+
 	/**
 	 * The entry point of application.
 	 *
