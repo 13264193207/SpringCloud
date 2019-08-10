@@ -29,6 +29,7 @@ import java.util.Set;
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class AliyunMqTopicConstants {
 
+
 	/**
 	 * The enum Uac mq topic enum.
 	 *
